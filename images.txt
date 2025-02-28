@@ -2,4 +2,4 @@ elasticsearch:7.16.3
 kibana:7.16.3
 redis:6.0.5
 mysql:8.0.37
-nacos:2.4.2
+nacos:2.5.0
